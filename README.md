@@ -1,16 +1,23 @@
-# aipel
+<div id="start-of-content" align="center">
 
-A new Flutter project.
+<img width="" src="images/brand.png"  width=120 height=120  align="center">
 
-## Getting Started
+##
 
-This project is a starting point for a Flutter application.
+### Aplikasi Informasi Pelanggan PT. Central Digital Network
 
-A few resources to get you started if this is your first Flutter project:
+</div>
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## 📙 Description
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Aplikasi Informasi Pelanggan PT. Central Digital Network is an application designed to record, display, and manage customer list information at PT. Central Digital Network, especially for customer data monitoring needs.
+
+![Aplikasi Informasi Pelanggan PT. Central Digital Network Thumbnail](images/Thumbnail.png)
+
+## 📖 Features
+
+Interesting features of Aplikasi Informasi Pelanggan PT. Central Digital Network:
+
+1. **Authentication** : Admin can log in to the application via a registered account.
+
+2. **CRUD Data** : Admin can add, view, change, search, and delete customer data, to support efficient customer data monitoring.
